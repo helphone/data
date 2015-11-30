@@ -1,0 +1,13 @@
+categories:
+  police:
+    translations:
+      en: 'Police'
+      fr: 'Police'
+  urgency:
+    translations:
+      en: 'Urgence'
+      fr: 'Urgency'
+  fireman:
+    translations:
+      en: 'Fireman'
+      fr: 'Pompier'

@@ -1,0 +1,9 @@
+phonenumbers:
+  BE:
+  - number: '112'
+    categories:
+    - police
+    - urgency
+  - number: '101'
+    categories:
+    - fireman
