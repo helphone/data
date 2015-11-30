@@ -1,9 +1,9 @@
 countries:
   BE:
     translations:
-      en: 'Belgium'
-      fr: 'Belgique'
+      en: Belgium
+      fr: Belgique
   FR:
     translations:
-      en: 'France'
-      fr: 'France'
+      en: France
+      fr: France
