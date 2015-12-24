@@ -1,9 +1,766 @@
 countries:
+  AD:
+    translations:
+      en: TODO
+  AE:
+    translations:
+      en: TODO
+  AF:
+    translations:
+      en: TODO
+  AG:
+    translations:
+      en: TODO
+  AL:
+    translations:
+      en: TODO
+  AM:
+    translations:
+      en: TODO
+  AO:
+    translations:
+      en: TODO
+  AQ:
+    translations:
+      en: TODO
+  AR:
+    translations:
+      en: TODO
+  AS:
+    translations:
+      en: TODO
+  AT:
+    translations:
+      en: TODO
+  AU:
+    translations:
+      en: TODO
+  AW:
+    translations:
+      en: TODO
+  AX:
+    translations:
+      en: TODO
+  AZ:
+    translations:
+      en: TODO
+  BA:
+    translations:
+      en: TODO
+  BB:
+    translations:
+      en: TODO
+  BD:
+    translations:
+      en: TODO
   BE:
     translations:
-      en: Belgium
-      fr: Belgique
+      en: TODO
+  BF:
+    translations:
+      en: TODO
+  HV:
+    translations:
+      en: TODO
+  BG:
+    translations:
+      en: TODO
+  BH:
+    translations:
+      en: TODO
+  BI:
+    translations:
+      en: TODO
+  BJ:
+    translations:
+      en: TODO
+  DY:
+    translations:
+      en: TODO
+  BL:
+    translations:
+      en: TODO
+  BM:
+    translations:
+      en: TODO
+  BN:
+    translations:
+      en: TODO
+  BO:
+    translations:
+      en: TODO
+  BQ:
+    translations:
+      en: TODO
+  BR:
+    translations:
+      en: TODO
+  BS:
+    translations:
+      en: TODO
+  BT:
+    translations:
+      en: TODO
+  BV:
+    translations:
+      en: TODO
+  BW:
+    translations:
+      en: TODO
+  BY:
+    translations:
+      en: TODO
+  BZ:
+    translations:
+      en: TODO
+  CA:
+    translations:
+      en: TODO
+  CC:
+    translations:
+      en: TODO
+  CD:
+    translations:
+      en: TODO
+  ZR:
+    translations:
+      en: TODO
+  CF:
+    translations:
+      en: TODO
+  CG:
+    translations:
+      en: TODO
+  CH:
+    translations:
+      en: TODO
+  CI:
+    translations:
+      en: TODO
+  CK:
+    translations:
+      en: TODO
+  CL:
+    translations:
+      en: TODO
+  CM:
+    translations:
+      en: TODO
+  CN:
+    translations:
+      en: TODO
+  CO:
+    translations:
+      en: TODO
+  CR:
+    translations:
+      en: TODO
+  CU:
+    translations:
+      en: TODO
+  CV:
+    translations:
+      en: TODO
+  CW:
+    translations:
+      en: TODO
+  CX:
+    translations:
+      en: TODO
+  CY:
+    translations:
+      en: TODO
+  CZ:
+    translations:
+      en: TODO
+  DE:
+    translations:
+      en: TODO
+  DJ:
+    translations:
+      en: TODO
+  AI:
+    translations:
+      en: TODO
+  DK:
+    translations:
+      en: TODO
+  DM:
+    translations:
+      en: TODO
+  DO:
+    translations:
+      en: TODO
+  DZ:
+    translations:
+      en: TODO
+  EC:
+    translations:
+      en: TODO
+  EE:
+    translations:
+      en: TODO
+  EG:
+    translations:
+      en: TODO
+  EH:
+    translations:
+      en: TODO
+  ER:
+    translations:
+      en: TODO
+  ES:
+    translations:
+      en: TODO
+  ET:
+    translations:
+      en: TODO
+  FI:
+    translations:
+      en: TODO
+  FJ:
+    translations:
+      en: TODO
+  FK:
+    translations:
+      en: TODO
+  FM:
+    translations:
+      en: TODO
+  FO:
+    translations:
+      en: TODO
   FR:
     translations:
-      en: France
-      fr: France
+      en: TODO
+  GA:
+    translations:
+      en: TODO
+  GB:
+    translations:
+      en: TODO
+  UK:
+    translations:
+      en: TODO
+  GD:
+    translations:
+      en: TODO
+  GE:
+    translations:
+      en: TODO
+  GF:
+    translations:
+      en: TODO
+  GG:
+    translations:
+      en: TODO
+  GH:
+    translations:
+      en: TODO
+  GI:
+    translations:
+      en: TODO
+  GL:
+    translations:
+      en: TODO
+  GM:
+    translations:
+      en: TODO
+  GN:
+    translations:
+      en: TODO
+  GP:
+    translations:
+      en: TODO
+  GQ:
+    translations:
+      en: TODO
+  GR:
+    translations:
+      en: TODO
+  GS:
+    translations:
+      en: TODO
+  GT:
+    translations:
+      en: TODO
+  GU:
+    translations:
+      en: TODO
+  GW:
+    translations:
+      en: TODO
+  GY:
+    translations:
+      en: TODO
+  HK:
+    translations:
+      en: TODO
+  HM:
+    translations:
+      en: TODO
+  HN:
+    translations:
+      en: TODO
+  HR:
+    translations:
+      en: TODO
+  HT:
+    translations:
+      en: TODO
+  HU:
+    translations:
+      en: TODO
+  ID:
+    translations:
+      en: TODO
+  IE:
+    translations:
+      en: TODO
+  IL:
+    translations:
+      en: TODO
+  IM:
+    translations:
+      en: TODO
+  IN:
+    translations:
+      en: TODO
+  IO:
+    translations:
+      en: TODO
+  IQ:
+    translations:
+      en: TODO
+  IR:
+    translations:
+      en: TODO
+  IS:
+    translations:
+      en: TODO
+  IT:
+    translations:
+      en: TODO
+  JE:
+    translations:
+      en: TODO
+  JM:
+    translations:
+      en: TODO
+  JO:
+    translations:
+      en: TODO
+  JP:
+    translations:
+      en: TODO
+  KE:
+    translations:
+      en: TODO
+  KG:
+    translations:
+      en: TODO
+  KH:
+    translations:
+      en: TODO
+  KI:
+    translations:
+      en: TODO
+  KM:
+    translations:
+      en: TODO
+  KN:
+    translations:
+      en: TODO
+  KP:
+    translations:
+      en: TODO
+  KR:
+    translations:
+      en: TODO
+  KW:
+    translations:
+      en: TODO
+  KY:
+    translations:
+      en: TODO
+  KZ:
+    translations:
+      en: TODO
+  LA:
+    translations:
+      en: TODO
+  LB:
+    translations:
+      en: TODO
+  LC:
+    translations:
+      en: TODO
+  LI:
+    translations:
+      en: TODO
+  LK:
+    translations:
+      en: TODO
+  LR:
+    translations:
+      en: TODO
+  LS:
+    translations:
+      en: TODO
+  LT:
+    translations:
+      en: TODO
+  LU:
+    translations:
+      en: TODO
+  LV:
+    translations:
+      en: TODO
+  LY:
+    translations:
+      en: TODO
+  MA:
+    translations:
+      en: TODO
+  MC:
+    translations:
+      en: TODO
+  MD:
+    translations:
+      en: TODO
+  ME:
+    translations:
+      en: TODO
+  MG:
+    translations:
+      en: TODO
+  MH:
+    translations:
+      en: TODO
+  MK:
+    translations:
+      en: TODO
+  ML:
+    translations:
+      en: TODO
+  MM:
+    translations:
+      en: TODO
+  BU:
+    translations:
+      en: TODO
+  MN:
+    translations:
+      en: TODO
+  MO:
+    translations:
+      en: TODO
+  MP:
+    translations:
+      en: TODO
+  MQ:
+    translations:
+      en: TODO
+  MR:
+    translations:
+      en: TODO
+  MS:
+    translations:
+      en: TODO
+  MT:
+    translations:
+      en: TODO
+  MU:
+    translations:
+      en: TODO
+  MV:
+    translations:
+      en: TODO
+  MW:
+    translations:
+      en: TODO
+  MX:
+    translations:
+      en: TODO
+  MY:
+    translations:
+      en: TODO
+  MZ:
+    translations:
+      en: TODO
+  NA:
+    translations:
+      en: TODO
+  NC:
+    translations:
+      en: TODO
+  NE:
+    translations:
+      en: TODO
+  NF:
+    translations:
+      en: TODO
+  NG:
+    translations:
+      en: TODO
+  NI:
+    translations:
+      en: TODO
+  NL:
+    translations:
+      en: TODO
+  NO:
+    translations:
+      en: TODO
+  NP:
+    translations:
+      en: TODO
+  NR:
+    translations:
+      en: TODO
+  NU:
+    translations:
+      en: TODO
+  NZ:
+    translations:
+      en: TODO
+  OM:
+    translations:
+      en: TODO
+  PA:
+    translations:
+      en: TODO
+  PE:
+    translations:
+      en: TODO
+  PF:
+    translations:
+      en: TODO
+  PG:
+    translations:
+      en: TODO
+  PH:
+    translations:
+      en: TODO
+  PK:
+    translations:
+      en: TODO
+  PL:
+    translations:
+      en: TODO
+  PM:
+    translations:
+      en: TODO
+  PN:
+    translations:
+      en: TODO
+  PR:
+    translations:
+      en: TODO
+  PS:
+    translations:
+      en: TODO
+  PT:
+    translations:
+      en: TODO
+  PW:
+    translations:
+      en: TODO
+  PY:
+    translations:
+      en: TODO
+  QA:
+    translations:
+      en: TODO
+  RE:
+    translations:
+      en: TODO
+  RO:
+    translations:
+      en: TODO
+  RS:
+    translations:
+      en: TODO
+  RU:
+    translations:
+      en: TODO
+  RW:
+    translations:
+      en: TODO
+  SA:
+    translations:
+      en: TODO
+  SB:
+    translations:
+      en: TODO
+  SC:
+    translations:
+      en: TODO
+  SD:
+    translations:
+      en: TODO
+  SE:
+    translations:
+      en: TODO
+  SG:
+    translations:
+      en: TODO
+  SH:
+    translations:
+      en: TODO
+  SI:
+    translations:
+      en: TODO
+  SJ:
+    translations:
+      en: TODO
+  SK:
+    translations:
+      en: TODO
+  SL:
+    translations:
+      en: TODO
+  SM:
+    translations:
+      en: TODO
+  SN:
+    translations:
+      en: TODO
+  SO:
+    translations:
+      en: TODO
+  SR:
+    translations:
+      en: TODO
+  SS:
+    translations:
+      en: TODO
+  ST:
+    translations:
+      en: TODO
+  SV:
+    translations:
+      en: TODO
+  SX:
+    translations:
+      en: TODO
+  MF:
+    translations:
+      en: TODO
+  SY:
+    translations:
+      en: TODO
+  SZ:
+    translations:
+      en: TODO
+  TC:
+    translations:
+      en: TODO
+  TD:
+    translations:
+      en: TODO
+  TF:
+    translations:
+      en: TODO
+  TG:
+    translations:
+      en: TODO
+  TH:
+    translations:
+      en: TODO
+  TJ:
+    translations:
+      en: TODO
+  TK:
+    translations:
+      en: TODO
+  TL:
+    translations:
+      en: TODO
+  TP:
+    translations:
+      en: TODO
+  TM:
+    translations:
+      en: TODO
+  TN:
+    translations:
+      en: TODO
+  TO:
+    translations:
+      en: TODO
+  TR:
+    translations:
+      en: TODO
+  TT:
+    translations:
+      en: TODO
+  TV:
+    translations:
+      en: TODO
+  TW:
+    translations:
+      en: TODO
+  TZ:
+    translations:
+      en: TODO
+  UA:
+    translations:
+      en: TODO
+  UG:
+    translations:
+      en: TODO
+  UM:
+    translations:
+      en: TODO
+  US:
+    translations:
+      en: TODO
+  UY:
+    translations:
+      en: TODO
+  UZ:
+    translations:
+      en: TODO
+  VA:
+    translations:
+      en: TODO
+  VC:
+    translations:
+      en: TODO
+  VE:
+    translations:
+      en: TODO
+  VG:
+    translations:
+      en: TODO
+  VI:
+    translations:
+      en: TODO
+  VN:
+    translations:
+      en: TODO
+  VU:
+    translations:
+      en: TODO
+  NH:
+    translations:
+      en: TODO
+  WF:
+    translations:
+      en: TODO
+  WS:
+    translations:
+      en: TODO
+  YE:
+    translations:
+      en: TODO
+  YT:
+    translations:
+      en: TODO
+  ZA:
+    translations:
+      en: TODO
+  ZM:
+    translations:
+      en: TODO
