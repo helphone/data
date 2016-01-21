@@ -1,766 +1,748 @@
 countries:
   AD:
     translations:
-      en: TODO
+      en: Andorra
   AE:
     translations:
-      en: TODO
+      en: United Arab Emirates
   AF:
     translations:
-      en: TODO
+      en: Afghanistan
   AG:
     translations:
-      en: TODO
-  AL:
-    translations:
-      en: TODO
-  AM:
-    translations:
-      en: TODO
-  AO:
-    translations:
-      en: TODO
-  AQ:
-    translations:
-      en: TODO
-  AR:
-    translations:
-      en: TODO
-  AS:
-    translations:
-      en: TODO
-  AT:
-    translations:
-      en: TODO
-  AU:
-    translations:
-      en: TODO
-  AW:
-    translations:
-      en: TODO
-  AX:
-    translations:
-      en: TODO
-  AZ:
-    translations:
-      en: TODO
-  BA:
-    translations:
-      en: TODO
-  BB:
-    translations:
-      en: TODO
-  BD:
-    translations:
-      en: TODO
-  BE:
-    translations:
-      en: TODO
-  BF:
-    translations:
-      en: TODO
-  HV:
-    translations:
-      en: TODO
-  BG:
-    translations:
-      en: TODO
-  BH:
-    translations:
-      en: TODO
-  BI:
-    translations:
-      en: TODO
-  BJ:
-    translations:
-      en: TODO
-  DY:
-    translations:
-      en: TODO
-  BL:
-    translations:
-      en: TODO
-  BM:
-    translations:
-      en: TODO
-  BN:
-    translations:
-      en: TODO
-  BO:
-    translations:
-      en: TODO
-  BQ:
-    translations:
-      en: TODO
-  BR:
-    translations:
-      en: TODO
-  BS:
-    translations:
-      en: TODO
-  BT:
-    translations:
-      en: TODO
-  BV:
-    translations:
-      en: TODO
-  BW:
-    translations:
-      en: TODO
-  BY:
-    translations:
-      en: TODO
-  BZ:
-    translations:
-      en: TODO
-  CA:
-    translations:
-      en: TODO
-  CC:
-    translations:
-      en: TODO
-  CD:
-    translations:
-      en: TODO
-  ZR:
-    translations:
-      en: TODO
-  CF:
-    translations:
-      en: TODO
-  CG:
-    translations:
-      en: TODO
-  CH:
-    translations:
-      en: TODO
-  CI:
-    translations:
-      en: TODO
-  CK:
-    translations:
-      en: TODO
-  CL:
-    translations:
-      en: TODO
-  CM:
-    translations:
-      en: TODO
-  CN:
-    translations:
-      en: TODO
-  CO:
-    translations:
-      en: TODO
-  CR:
-    translations:
-      en: TODO
-  CU:
-    translations:
-      en: TODO
-  CV:
-    translations:
-      en: TODO
-  CW:
-    translations:
-      en: TODO
-  CX:
-    translations:
-      en: TODO
-  CY:
-    translations:
-      en: TODO
-  CZ:
-    translations:
-      en: TODO
-  DE:
-    translations:
-      en: TODO
-  DJ:
-    translations:
-      en: TODO
+      en: Antigua and Barbuda
   AI:
     translations:
-      en: TODO
+      en: Anguilla
+  AL:
+    translations:
+      en: Albania
+  AM:
+    translations:
+      en: Armenia
+  AO:
+    translations:
+      en: Angola
+  AQ:
+    translations:
+      en: Antarctica
+  AR:
+    translations:
+      en: Argentina
+  AS:
+    translations:
+      en: American Samoa
+  AT:
+    translations:
+      en: Austria
+  AU:
+    translations:
+      en: Australia
+  AW:
+    translations:
+      en: Aruba
+  AX:
+    translations:
+      en: Åland Islands
+  AZ:
+    translations:
+      en: Azerbaijan
+  BA:
+    translations:
+      en: Bosnia and Herzegovina
+  BB:
+    translations:
+      en: Barbados
+  BD:
+    translations:
+      en: Bangladesh
+  BE:
+    translations:
+      en: Belgium
+  BF:
+    translations:
+      en: Burkina Faso
+  BG:
+    translations:
+      en: Bulgaria
+  BH:
+    translations:
+      en: Bahrain
+  BI:
+    translations:
+      en: Burundi
+  BJ:
+    translations:
+      en: Benin
+  BL:
+    translations:
+      en: Saint Barthélemy
+  BM:
+    translations:
+      en: Bermuda
+  BN:
+    translations:
+      en: Brunei Darussalam
+  BO:
+    translations:
+      en: Bolivia, Plurinational State of
+  BQ:
+    translations:
+      en: Bonaire, Sint Eustatius and Saba
+  BR:
+    translations:
+      en: Brazil
+  BS:
+    translations:
+      en: Bahamas
+  BT:
+    translations:
+      en: Bhutan
+  BV:
+    translations:
+      en: Bouvet Island
+  BW:
+    translations:
+      en: Botswana
+  BY:
+    translations:
+      en: Belarus
+  BZ:
+    translations:
+      en: Belize
+  CA:
+    translations:
+      en: Canada
+  CC:
+    translations:
+      en: Cocos (Keeling) Islands
+  CD:
+    translations:
+      en: Congo, the Democratic Republic of the
+  CF:
+    translations:
+      en: Central African Republic
+  CG:
+    translations:
+      en: Congo
+  CH:
+    translations:
+      en: Switzerland
+  CI:
+    translations:
+      en: Côte d'Ivoire
+  CK:
+    translations:
+      en: Cook Islands
+  CL:
+    translations:
+      en: Chile
+  CM:
+    translations:
+      en: Cameroon
+  CN:
+    translations:
+      en: China
+  CO:
+    translations:
+      en: Colombia
+  CR:
+    translations:
+      en: Costa Rica
+  CU:
+    translations:
+      en: Cuba
+  CV:
+    translations:
+      en: Cabo Verde
+  CW:
+    translations:
+      en: Curaçao
+  CX:
+    translations:
+      en: Christmas Island
+  CY:
+    translations:
+      en: Cyprus
+  CZ:
+    translations:
+      en: Czech Republic
+  DE:
+    translations:
+      en: Germany
+  DJ:
+    translations:
+      en: Djibouti
   DK:
     translations:
-      en: TODO
+      en: Denmark
   DM:
     translations:
-      en: TODO
+      en: Dominica
   DO:
     translations:
-      en: TODO
+      en: Dominican Republic
   DZ:
     translations:
-      en: TODO
+      en: Algeria
   EC:
     translations:
-      en: TODO
+      en: Ecuador
   EE:
     translations:
-      en: TODO
+      en: Estonia
   EG:
     translations:
-      en: TODO
+      en: Egypt
   EH:
     translations:
-      en: TODO
+      en: Western Sahara
   ER:
     translations:
-      en: TODO
+      en: Eritrea
   ES:
     translations:
-      en: TODO
+      en: Spain
   ET:
     translations:
-      en: TODO
+      en: Ethiopia
   FI:
     translations:
-      en: TODO
+      en: Finland
   FJ:
     translations:
-      en: TODO
+      en: Fiji
   FK:
     translations:
-      en: TODO
+      en: Falkland Islands (Malvinas)
   FM:
     translations:
-      en: TODO
+      en: Micronesia, Federated States of
   FO:
     translations:
-      en: TODO
+      en: Faroe Islands
   FR:
     translations:
-      en: TODO
+      en: France
   GA:
     translations:
-      en: TODO
+      en: Gabon
   GB:
     translations:
-      en: TODO
-  UK:
-    translations:
-      en: TODO
+      en: United Kingdom of Great Britain and Northern Ireland
   GD:
     translations:
-      en: TODO
+      en: Grenada
   GE:
     translations:
-      en: TODO
+      en: Georgia
   GF:
     translations:
-      en: TODO
+      en: French Guiana
   GG:
     translations:
-      en: TODO
+      en: Guernsey
   GH:
     translations:
-      en: TODO
+      en: Ghana
   GI:
     translations:
-      en: TODO
+      en: Gibraltar
   GL:
     translations:
-      en: TODO
+      en: Greenland
   GM:
     translations:
-      en: TODO
+      en: Gambia
   GN:
     translations:
-      en: TODO
+      en: Guinea
   GP:
     translations:
-      en: TODO
+      en: Guadeloupe
   GQ:
     translations:
-      en: TODO
+      en: Equatorial Guinea
   GR:
     translations:
-      en: TODO
+      en: Greece
   GS:
     translations:
-      en: TODO
+      en: South Georgia and the South Sandwich Islands
   GT:
     translations:
-      en: TODO
+      en: Guatemala
   GU:
     translations:
-      en: TODO
+      en: Guam
   GW:
     translations:
-      en: TODO
+      en: Guinea-Bissau
   GY:
     translations:
-      en: TODO
+      en: Guyana
   HK:
     translations:
-      en: TODO
+      en: Hong Kong
   HM:
     translations:
-      en: TODO
+      en: Heard Island and McDonald Islands
   HN:
     translations:
-      en: TODO
+      en: Honduras
   HR:
     translations:
-      en: TODO
+      en: Croatia
   HT:
     translations:
-      en: TODO
+      en: Haiti
   HU:
     translations:
-      en: TODO
+      en: Hungary
   ID:
     translations:
-      en: TODO
+      en: Indonesia
   IE:
     translations:
-      en: TODO
+      en: Ireland
   IL:
     translations:
-      en: TODO
+      en: Israel
   IM:
     translations:
-      en: TODO
+      en: Isle of Man
   IN:
     translations:
-      en: TODO
+      en: India
   IO:
     translations:
-      en: TODO
+      en: British Indian Ocean Territory
   IQ:
     translations:
-      en: TODO
+      en: Iraq
   IR:
     translations:
-      en: TODO
+      en: Iran, Islamic Republic of
   IS:
     translations:
-      en: TODO
+      en: Iceland
   IT:
     translations:
-      en: TODO
+      en: Italy
   JE:
     translations:
-      en: TODO
+      en: Jersey
   JM:
     translations:
-      en: TODO
+      en: Jamaica
   JO:
     translations:
-      en: TODO
+      en: Jordan
   JP:
     translations:
-      en: TODO
+      en: Japan
   KE:
     translations:
-      en: TODO
+      en: Kenya
   KG:
     translations:
-      en: TODO
+      en: Kyrgyzstan
   KH:
     translations:
-      en: TODO
+      en: Cambodia
   KI:
     translations:
-      en: TODO
+      en: Kiribati
   KM:
     translations:
-      en: TODO
+      en: Comoros
   KN:
     translations:
-      en: TODO
+      en: Saint Kitts and Nevis
   KP:
     translations:
-      en: TODO
+      en: Korea, Democratic People's Republic of
   KR:
     translations:
-      en: TODO
+      en: Korea, Republic of
   KW:
     translations:
-      en: TODO
+      en: Kuwait
   KY:
     translations:
-      en: TODO
+      en: Cayman Islands
   KZ:
     translations:
-      en: TODO
+      en: Kazakhstan
   LA:
     translations:
-      en: TODO
+      en: Lao People's Democratic Republic
   LB:
     translations:
-      en: TODO
+      en: Lebanon
   LC:
     translations:
-      en: TODO
+      en: Saint Lucia
   LI:
     translations:
-      en: TODO
+      en: Liechtenstein
   LK:
     translations:
-      en: TODO
+      en: Sri Lanka
   LR:
     translations:
-      en: TODO
+      en: Liberia
   LS:
     translations:
-      en: TODO
+      en: Lesotho
   LT:
     translations:
-      en: TODO
+      en: Lithuania
   LU:
     translations:
-      en: TODO
+      en: Luxembourg
   LV:
     translations:
-      en: TODO
+      en: Latvia
   LY:
     translations:
-      en: TODO
+      en: Libya
   MA:
     translations:
-      en: TODO
+      en: Morocco
   MC:
     translations:
-      en: TODO
+      en: Monaco
   MD:
     translations:
-      en: TODO
+      en: Moldova, Republic of
   ME:
     translations:
-      en: TODO
-  MG:
-    translations:
-      en: TODO
-  MH:
-    translations:
-      en: TODO
-  MK:
-    translations:
-      en: TODO
-  ML:
-    translations:
-      en: TODO
-  MM:
-    translations:
-      en: TODO
-  BU:
-    translations:
-      en: TODO
-  MN:
-    translations:
-      en: TODO
-  MO:
-    translations:
-      en: TODO
-  MP:
-    translations:
-      en: TODO
-  MQ:
-    translations:
-      en: TODO
-  MR:
-    translations:
-      en: TODO
-  MS:
-    translations:
-      en: TODO
-  MT:
-    translations:
-      en: TODO
-  MU:
-    translations:
-      en: TODO
-  MV:
-    translations:
-      en: TODO
-  MW:
-    translations:
-      en: TODO
-  MX:
-    translations:
-      en: TODO
-  MY:
-    translations:
-      en: TODO
-  MZ:
-    translations:
-      en: TODO
-  NA:
-    translations:
-      en: TODO
-  NC:
-    translations:
-      en: TODO
-  NE:
-    translations:
-      en: TODO
-  NF:
-    translations:
-      en: TODO
-  NG:
-    translations:
-      en: TODO
-  NI:
-    translations:
-      en: TODO
-  NL:
-    translations:
-      en: TODO
-  NO:
-    translations:
-      en: TODO
-  NP:
-    translations:
-      en: TODO
-  NR:
-    translations:
-      en: TODO
-  NU:
-    translations:
-      en: TODO
-  NZ:
-    translations:
-      en: TODO
-  OM:
-    translations:
-      en: TODO
-  PA:
-    translations:
-      en: TODO
-  PE:
-    translations:
-      en: TODO
-  PF:
-    translations:
-      en: TODO
-  PG:
-    translations:
-      en: TODO
-  PH:
-    translations:
-      en: TODO
-  PK:
-    translations:
-      en: TODO
-  PL:
-    translations:
-      en: TODO
-  PM:
-    translations:
-      en: TODO
-  PN:
-    translations:
-      en: TODO
-  PR:
-    translations:
-      en: TODO
-  PS:
-    translations:
-      en: TODO
-  PT:
-    translations:
-      en: TODO
-  PW:
-    translations:
-      en: TODO
-  PY:
-    translations:
-      en: TODO
-  QA:
-    translations:
-      en: TODO
-  RE:
-    translations:
-      en: TODO
-  RO:
-    translations:
-      en: TODO
-  RS:
-    translations:
-      en: TODO
-  RU:
-    translations:
-      en: TODO
-  RW:
-    translations:
-      en: TODO
-  SA:
-    translations:
-      en: TODO
-  SB:
-    translations:
-      en: TODO
-  SC:
-    translations:
-      en: TODO
-  SD:
-    translations:
-      en: TODO
-  SE:
-    translations:
-      en: TODO
-  SG:
-    translations:
-      en: TODO
-  SH:
-    translations:
-      en: TODO
-  SI:
-    translations:
-      en: TODO
-  SJ:
-    translations:
-      en: TODO
-  SK:
-    translations:
-      en: TODO
-  SL:
-    translations:
-      en: TODO
-  SM:
-    translations:
-      en: TODO
-  SN:
-    translations:
-      en: TODO
-  SO:
-    translations:
-      en: TODO
-  SR:
-    translations:
-      en: TODO
-  SS:
-    translations:
-      en: TODO
-  ST:
-    translations:
-      en: TODO
-  SV:
-    translations:
-      en: TODO
-  SX:
-    translations:
-      en: TODO
+      en: Montenegro
   MF:
     translations:
-      en: TODO
+      en: Saint Martin (French part)
+  MG:
+    translations:
+      en: Madagascar
+  MH:
+    translations:
+      en: Marshall Islands
+  MK:
+    translations:
+      en: Macedonia, the former Yugoslav Republic of
+  ML:
+    translations:
+      en: Mali
+  MM:
+    translations:
+      en: Myanmar
+  MN:
+    translations:
+      en: Mongolia
+  MO:
+    translations:
+      en: Macao
+  MP:
+    translations:
+      en: Northern Mariana Islands
+  MQ:
+    translations:
+      en: Martinique
+  MR:
+    translations:
+      en: Mauritania
+  MS:
+    translations:
+      en: Montserrat
+  MT:
+    translations:
+      en: Malta
+  MU:
+    translations:
+      en: Mauritius
+  MV:
+    translations:
+      en: Maldives
+  MW:
+    translations:
+      en: Malawi
+  MX:
+    translations:
+      en: Mexico
+  MY:
+    translations:
+      en: Malaysia
+  MZ:
+    translations:
+      en: Mozambique
+  NA:
+    translations:
+      en: Namibia
+  NC:
+    translations:
+      en: New Caledonia
+  NE:
+    translations:
+      en: Niger
+  NF:
+    translations:
+      en: Norfolk Island
+  NG:
+    translations:
+      en: Nigeria
+  NI:
+    translations:
+      en: Nicaragua
+  NL:
+    translations:
+      en: Netherlands
+  NO:
+    translations:
+      en: Norway
+  NP:
+    translations:
+      en: Nepal
+  NR:
+    translations:
+      en: Nauru
+  NU:
+    translations:
+      en: Niue
+  NZ:
+    translations:
+      en: New Zealand
+  OM:
+    translations:
+      en: Oman
+  PA:
+    translations:
+      en: Panama
+  PE:
+    translations:
+      en: Peru
+  PF:
+    translations:
+      en: French Polynesia
+  PG:
+    translations:
+      en: Papua New Guinea
+  PH:
+    translations:
+      en: Philippines
+  PK:
+    translations:
+      en: Pakistan
+  PL:
+    translations:
+      en: Poland
+  PM:
+    translations:
+      en: Saint Pierre and Miquelon
+  PN:
+    translations:
+      en: Pitcairn
+  PR:
+    translations:
+      en: Puerto Rico
+  PS:
+    translations:
+      en: Palestine, State of
+  PT:
+    translations:
+      en: Portugal
+  PW:
+    translations:
+      en: Palau
+  PY:
+    translations:
+      en: Paraguay
+  QA:
+    translations:
+      en: Qatar
+  RE:
+    translations:
+      en: Réunion
+  RO:
+    translations:
+      en: Romania
+  RS:
+    translations:
+      en: Serbia
+  RU:
+    translations:
+      en: Russian Federation
+  RW:
+    translations:
+      en: Rwanda
+  SA:
+    translations:
+      en: Saudi Arabia
+  SB:
+    translations:
+      en: Solomon Islands
+  SC:
+    translations:
+      en: Seychelles
+  SD:
+    translations:
+      en: Sudan
+  SE:
+    translations:
+      en: Sweden
+  SG:
+    translations:
+      en: Singapore
+  SH:
+    translations:
+      en: Saint Helena, Ascension and Tristan da Cunha
+  SI:
+    translations:
+      en: Slovenia
+  SJ:
+    translations:
+      en: Svalbard and Jan Mayen
+  SK:
+    translations:
+      en: Slovakia
+  SL:
+    translations:
+      en: Sierra Leone
+  SM:
+    translations:
+      en: San Marino
+  SN:
+    translations:
+      en: Senegal
+  SO:
+    translations:
+      en: Somalia
+  SR:
+    translations:
+      en: Suriname
+  SS:
+    translations:
+      en: South Sudan
+  ST:
+    translations:
+      en: Sao Tome and Principe
+  SV:
+    translations:
+      en: El Salvador
+  SX:
+    translations:
+      en: Sint Maarten (Dutch part)
   SY:
     translations:
-      en: TODO
+      en: Syrian Arab Republic
   SZ:
     translations:
-      en: TODO
+      en: Swaziland
   TC:
     translations:
-      en: TODO
+      en: Turks and Caicos Islands
   TD:
     translations:
-      en: TODO
+      en: Chad
   TF:
     translations:
-      en: TODO
+      en: French Southern Territories
   TG:
     translations:
-      en: TODO
+      en: Togo
   TH:
     translations:
-      en: TODO
+      en: Thailand
   TJ:
     translations:
-      en: TODO
+      en: Tajikistan
   TK:
     translations:
-      en: TODO
+      en: Tokelau
   TL:
     translations:
-      en: TODO
-  TP:
-    translations:
-      en: TODO
+      en: Timor-Leste
   TM:
     translations:
-      en: TODO
+      en: Turkmenistan
   TN:
     translations:
-      en: TODO
+      en: Tunisia
   TO:
     translations:
-      en: TODO
+      en: Tonga
   TR:
     translations:
-      en: TODO
+      en: Turkey
   TT:
     translations:
-      en: TODO
+      en: Trinidad and Tobago
   TV:
     translations:
-      en: TODO
+      en: Tuvalu
   TW:
     translations:
-      en: TODO
+      en: Taiwan, Province of China
   TZ:
     translations:
-      en: TODO
+      en: Tanzania, United Republic of
   UA:
     translations:
-      en: TODO
+      en: Ukraine
   UG:
     translations:
-      en: TODO
+      en: Uganda
   UM:
     translations:
-      en: TODO
+      en: United States Minor Outlying Islands
   US:
     translations:
-      en: TODO
+      en: United States of America
   UY:
     translations:
-      en: TODO
+      en: Uruguay
   UZ:
     translations:
-      en: TODO
+      en: Uzbekistan
   VA:
     translations:
-      en: TODO
+      en: Holy See
   VC:
     translations:
-      en: TODO
+      en: Saint Vincent and the Grenadines
   VE:
     translations:
-      en: TODO
+      en: Venezuela, Bolivarian Republic of
   VG:
     translations:
-      en: TODO
+      en: Virgin Islands, British
   VI:
     translations:
-      en: TODO
+      en: Virgin Islands, U.S.
   VN:
     translations:
-      en: TODO
+      en: Viet Nam
   VU:
     translations:
-      en: TODO
-  NH:
-    translations:
-      en: TODO
+      en: Vanuatu
   WF:
     translations:
-      en: TODO
+      en: Wallis and Futuna
   WS:
     translations:
-      en: TODO
+      en: Samoa
   YE:
     translations:
-      en: TODO
+      en: Yemen
   YT:
     translations:
-      en: TODO
+      en: Mayotte
   ZA:
     translations:
-      en: TODO
+      en: South Africa
   ZM:
     translations:
-      en: TODO
+      en: Zambia
+  ZW:
+    translations:
+      en: Zimbabwe
